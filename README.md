@@ -26,9 +26,11 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
-```C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 1.jpg```
+![c PROGRAMMING (exp-1) 1](https://github.com/user-attachments/assets/0b2bb8ba-0dd2-4e06-b82a-c5f95e645ba3)
+
 # Output:
-"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 1 OUTPUT.jpg"
+![c PROGRAMMING (exp-1) 1 OUTPUT](https://github.com/user-attachments/assets/a73cf465-fce0-4edb-9840-8cf8ae695131)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -59,9 +61,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
-"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 2.jpg"
+![c PROGRAMMING (exp-1) 2](https://github.com/user-attachments/assets/720aa0e0-e7b8-4d7e-b85d-d562e3c351a8)
+
 # Output:
-"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 2 OUTPUT.jpg"
+![c PROGRAMMING (exp-1) 2 OUTPUT](https://github.com/user-attachments/assets/09f1d20e-170a-46ba-ab92-8eac67e8909b)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -85,9 +89,14 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
-"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 3.jpg"
+
+![c PROGRAMMING (exp-1) 3](https://github.com/user-attachments/assets/f777072f-493d-4b80-a148-3b0a13e5beeb)
+
+
 # Output:
-"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 3 OUTPUT.jpg"
+
+![c PROGRAMMING (exp-1) 3 OUTPUT](https://github.com/user-attachments/assets/7deeb509-742b-4087-88c6-cfe7533db79c)
+
 # Result: 
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
@@ -126,9 +135,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
-"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 4.jpg"
+
+![c PROGRAMMING (exp-1) 4](https://github.com/user-attachments/assets/0f7c772a-85d6-4f75-85d2-843a532e1527)
+
 # Output:
-"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 4OUTPUT.jpg"
+
+![c PROGRAMMING (exp-1) 4OUTPUT](https://github.com/user-attachments/assets/0ed4c5af-2a66-467b-8722-05b07168510e)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -173,10 +186,16 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
-"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 5.jpg"
+
+![c PROGRAMMING (exp-1) 5](https://github.com/user-attachments/assets/e4ce3eb6-6d52-433e-ba06-4c770f173998)
+
 # Output:
-"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 5 OUTPUT-1.jpg"
-"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 5 OUTPUT-2.jpg"
+
+![c PROGRAMMING (exp-1) 5 OUTPUT-1](https://github.com/user-attachments/assets/ec3c2b76-80ba-4277-8f03-a8cdd33e221b)
+
+![c PROGRAMMING (exp-1) 5 OUTPUT-2](https://github.com/user-attachments/assets/aaca8618-0d77-490a-a417-20dcc81c568c)
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
