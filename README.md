@@ -26,7 +26,7 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
-"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 1.jpg"
+```C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 1.jpg```
 # Output:
 "C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 1 OUTPUT.jpg"
 # Result: 
