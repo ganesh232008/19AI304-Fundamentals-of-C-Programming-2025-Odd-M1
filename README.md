@@ -4,7 +4,7 @@
 ## 2. Implementation of different categories of operators.
 # Ex.No:1
   Build a C program to demonstrate the usage of different types of literals: integer, float, character, and string.  
-# Date : 
+# Date :
 # Aim:
 To build a C program that prints integer, float,character, and string literals on the console using the printf() function.
 # Algorithm:
@@ -26,7 +26,9 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
+"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 1.jpg"
 # Output:
+"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 1 OUTPUT.jpg"
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -57,7 +59,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
+"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 2.jpg"
 # Output:
+"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 2 OUTPUT.jpg"
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -81,7 +85,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
+"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 3.jpg"
 # Output:
+"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 3 OUTPUT.jpg"
 # Result: 
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
@@ -120,7 +126,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 4.jpg"
 # Output:
+"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 4OUTPUT.jpg"
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -165,7 +173,10 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 5.jpg"
 # Output:
+"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 5 OUTPUT-1.jpg"
+"C:\Users\acer\OneDrive\Pictures\c PROGRAMMING (exp-1) 5 OUTPUT-2.jpg"
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
